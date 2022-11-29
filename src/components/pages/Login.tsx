@@ -40,7 +40,7 @@ export const Login: FC<Props> = memo((props) => {
             transition="all 1s"
             _hover={{ transform: "scale(1.3)" }}
           >
-            <Text>Googleでログインします</Text>
+            <Text>Googleでログインしますよ！！</Text>
           </Flex>
         </PrimaryButton>
       </Box>
